@@ -1,0 +1,28 @@
+#gameBoard{
+    border:3px solid;
+
+}
+
+#gameContainer{
+    border:3px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#score{
+    font-family: "Permenant Marker",cursive;
+    font-size: 80px;
+}
+
+#resetBtn{
+    font-family: "Permenant Marker",cursive;
+    font-size: 22px;
+    width:100px;
+    height:50px;
+    border:4px;
+    border-radius:15px;
+    cursor:pointer;
+
+}
